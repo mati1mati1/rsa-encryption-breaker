@@ -1,0 +1,1 @@
+segments the text base on the key length, assuming that space is the most comment char in English and guss the key on frewuncy analysis of each segmant score

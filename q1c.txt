@@ -1,0 +1,1 @@
+i go over the char in the string and for each digit i give score 1 and for each sapce i give score of 10 and for each letter score of 3 this is base on want probobly more in the text

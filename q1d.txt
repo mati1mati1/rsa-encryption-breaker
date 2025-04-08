@@ -1,0 +1,1 @@
+i create all posibole key and go over and return the one with the best score and the decypt the text with this key

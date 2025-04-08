@@ -1,0 +1,1 @@
+i get the e from the atm public key and return the e root of the encrypted_credit_card
